@@ -50,3 +50,19 @@ outputs:
 As a user, I want to be able to run a factory function. Give it flour, water and
 eggs. I want to receive brioche.
 
+
+### Usage/Documentation
+
+make_bread(arg1, arg2, arg3)
+
+bake(arg1)
+
+run_factory(arg1, arg2, arg3)
+
+
+## _name_ and _main_ in Python
+
+
+## breakpoint()
+useful for figuring out which block of code
+is broken, can test variables etc.
